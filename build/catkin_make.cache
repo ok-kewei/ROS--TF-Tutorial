@@ -1,0 +1,2 @@
+learning_tf
+-DCATKIN_DEVEL_PREFIX=/home/kewei/catkin_tf/devel -DCMAKE_INSTALL_PREFIX=/home/kewei/catkin_tf/install -G Unix Makefiles
